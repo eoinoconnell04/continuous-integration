@@ -136,7 +136,7 @@ It is common for people to talk about PEP8, so you must know what that is, but y
 In this class, we will be enforcing that all of your python code satisfies PEP8 using a python linter called [flake8](https://flake8.pycqa.org/en/latest/).
 To lint your program, type the command
 ```
-$ flake8 Fixme.py
+$ flake8 Fixme.py 
 ```
 You should get output similar to
 ```
